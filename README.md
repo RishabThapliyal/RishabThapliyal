@@ -88,7 +88,7 @@ const rishab = {
 ### 🔍 [Media Search](https://github.com/RishabThapliyal/media-search-nextjs)
 > Unified media discovery — search photos, videos & GIFs from one place
 
-- 🌐 **3 APIs integrated** — Unsplash, Pexels & Giphy in a single search interface
+- 🌐 **3 APIs integrated** — **Unsplash**, **Pexels** & **Giphy** in a single search interface
 - ♾️ Paginated infinite scroll with `appendResults` Redux pattern
 - 💾 Collection system persisted via `localStorage` + Redux hydration on mount
 - 📱 Responsive grid layout — 1 to 5 columns across breakpoints
