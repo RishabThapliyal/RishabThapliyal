@@ -11,7 +11,7 @@
 
 ### `< Full Stack Developer />` · Dehradun, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-f59e0b?style=for-the-badge&logo=vercel&logoColor=black)]([https://your-portfolio-url.com](https://rishab-portfolio-one.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-f59e0b?style=for-the-badge&logo=vercel&logoColor=black)](https://rishab-portfolio-one.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishab-thapliyal-b72514221/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rishabth_/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabthapliyal04@gmail.com)
