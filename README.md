@@ -85,6 +85,19 @@ const rishab = {
 
 ---
 
+### 🔍 [Media Search](https://github.com/RishabThapliyal/media-search-nextjs)
+> Unified media discovery — search photos, videos & GIFs from one place
+
+- 🌐 **3 APIs integrated** — Unsplash, Pexels & Giphy in a single search
+- ♾️ Infinite scroll with paginated API calls
+- 💾 Collection system persisted via `localStorage` + Redux hydration
+- 📱 Responsive grid — 1 to 5 columns
+
+`Next.js` `JavaScript` `Redux Toolkit` `Tailwind CSS`
+[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://media-search-nextjs.netlify.app/)
+
+---
+
 ### 🎬 [Video Scene Classification System](https://github.com/RishabThapliyal/Video-Scene-Classification-System)
 > Natural language search inside video using multi-modal AI
 
