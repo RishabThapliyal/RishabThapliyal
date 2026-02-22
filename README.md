@@ -109,14 +109,6 @@ const rishab = {
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishabThapliyal&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabThapliyal&layout=compact&theme=github_dark&hide_border=true)
-
----
-
 ## 🏆 Achievements
 
 ```
