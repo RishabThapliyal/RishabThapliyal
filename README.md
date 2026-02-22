@@ -109,10 +109,7 @@ const rishab = {
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 Stats
-![](https://komarev.com/ghpvc/?username=RishabThapliyal&color=f59e0b&style=flat-square&label=Profile+Views)
+## 📊 GitHub Stats <div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=RishabThapliyal&show_icons=true&theme=github_dark&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" /> </div>
 
 ---
 
