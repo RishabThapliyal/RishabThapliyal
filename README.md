@@ -109,7 +109,11 @@ const rishab = {
 
 ---
 
-## 📊 GitHub Stats <div align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=RishabThapliyal&show_icons=true&theme=github_dark&hide_border=true&title_color=f59e0b&icon_color=f59e0b&text_color=ffffff&bg_color=0d1117&cache_seconds=1800" /> </div>
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishabThapliyal&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RishabThapliyal&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
