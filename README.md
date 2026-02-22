@@ -11,7 +11,7 @@
 
 ### `< Full Stack Developer />` · Dehradun, India
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-f59e0b?style=for-the-badge&logo=vercel&logoColor=black)](https://rishab-portfolio-one.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f59e0b?style=for-the-badge&logo=vercel&logoColor=black)]([https://your-portfolio-url.com](https://rishab-portfolio-one.vercel.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishab-thapliyal-b72514221/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Rishabth_/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishabthapliyal04@gmail.com)
@@ -88,10 +88,10 @@ const rishab = {
 ### 🔍 [Media Search](https://github.com/RishabThapliyal/media-search-nextjs)
 > Unified media discovery — search photos, videos & GIFs from one place
 
-- 🌐 **3 APIs integrated** — Unsplash, Pexels & Giphy in a single search
-- ♾️ Infinite scroll with paginated API calls
-- 💾 Collection system persisted via `localStorage` + Redux hydration
-- 📱 Responsive grid — 1 to 5 columns
+- 🌐 **3 APIs integrated** — Unsplash, Pexels & Giphy in a single search interface
+- ♾️ Paginated infinite scroll with `appendResults` Redux pattern
+- 💾 Collection system persisted via `localStorage` + Redux hydration on mount
+- 📱 Responsive grid layout — 1 to 5 columns across breakpoints
 
 `Next.js` `JavaScript` `Redux Toolkit` `Tailwind CSS`
 [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://media-search-nextjs.netlify.app/)
@@ -106,16 +106,6 @@ const rishab = {
 - 🔍 Search any concept inside a video using plain English
 
 `React.js` `Python` `Flask` `CLIP` `Sentence Transformers` `OpenCV`
-
----
-
-### 📧 [Spam Mail Prediction](https://github.com/RishabThapliyal/Spam-Mail-Prediction-)
-> End-to-end ML pipeline with **97% classification accuracy**
-
-- 📊 TF-IDF vectorization + Logistic Regression
-- 🔤 Full NLP preprocessing pipeline
-
-`Python` `scikit-learn` `TF-IDF` `NLP` `Logistic Regression`
 
 ---
 
@@ -134,7 +124,7 @@ const rishab = {
 
 ```
 ⌘  LeetCode   →  900+ problems solved (Arrays, Trees, Graphs, DP)
-◈  Hackathon  →  Working prototype built under 24-hour constraint  
+◈  Hackathon  →  Working prototype built under 24-hour constraint
 ◉  Cloud       →  Certified in Cloud Computing (IaaS, PaaS, SaaS)
 ◎  ML          →  Certified in Machine Learning Foundations
 ```
