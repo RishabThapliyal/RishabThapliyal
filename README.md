@@ -59,8 +59,9 @@ const rishab = {
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 
-**Tools**
+**Auth & Tools**
 
+![NextAuth](https://img.shields.io/badge/NextAuth.js-purple?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
@@ -73,15 +74,18 @@ const rishab = {
 ## 🚀 Featured Projects
 
 ### 📅 [Leave & Attendance Marking System](https://github.com/RishabThapliyal/leave-attendance-marking-system)
-> Enterprise-grade attendance system with immutable event architecture
+> Enterprise-grade attendance system — designed like a financial ledger
 
+- 🔐 **Real authentication** — NextAuth.js JWT sessions, bcrypt hashed passwords, role-based access (EMPLOYEE / MANAGER / ADMIN)
+- 🛡️ **Session-secured APIs** — `employeeId` from session only, EMPLOYEE cannot access others' data
 - 🏗️ **Immutable event model** — cancel + recreate strategy ensures 100% data integrity
-- ⚙️ **Zod rule engine** — server-side validation with `{ allowed, reason, statusCode }`
+- ⚙️ **Server-side rule engine** — Zod validation returning `{ allowed, reason, statusCode }`
 - 🔒 Month locking with `HTTP 423`, full audit log trail
-- 📅 FullCalendar UI + RTK Query for optimistic state updates
+- 📅 FullCalendar UI + RTK Query for automatic cache invalidation & UI sync
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Redux Toolkit` `Zod`
-[![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://leave-attendance-system.netlify.app/)
+`Next.js` `TypeScript` `PostgreSQL` `Prisma` `NextAuth.js` `Redux Toolkit` `Zod` `Vitest`
+[![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://leave-attendance-marking-system.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RishabThapliyal/leave-attendance-marking-system)
 
 ---
 
